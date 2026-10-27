@@ -1,0 +1,12 @@
+node_modules/
+.next/
+dist/
+backend/src/data/users/*.json
+
+**/node_modules/
+**/.next/
+dist/
+build/
+*.log
+.env
+**/.env

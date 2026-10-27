@@ -1,0 +1,24 @@
+{
+  "totalSupply": 10000000,
+  "circulatingSupply": 9999711.985747058,
+  "basePriceUsd": 0.0000084337,
+  "currentPriceUsd": 12.04308327,
+  "fiatTreasury": {
+    "INR": 0,
+    "USD": 0,
+    "EUR": 0,
+    "Dinar": 0
+  },
+  "autoMode": true,
+  "overridePriceUsd": null,
+  "targetPriceUsd": null,
+  "targetDurationMs": null,
+  "targetStartTime": null,
+  "startPriceUsd": null,
+  "lastMarketMakerAction": {
+    "type": "BUY_FROM_TREASURY",
+    "amountYard": 0,
+    "reason": "Admin market-maker bought Yard from treasury.",
+    "timestamp": "2026-06-23T07:36:43.052Z"
+  }
+}

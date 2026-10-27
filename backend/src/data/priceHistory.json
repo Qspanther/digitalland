@@ -1,0 +1,1154 @@
+[
+  {
+    "time": 1782192540000,
+    "open": 10.90878948,
+    "high": 10.90878948,
+    "low": 10.90878948,
+    "close": 10.90878948,
+    "volumeYard": 14.251776707864883,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782192600000,
+    "open": 10.90878948,
+    "high": 10.95800631,
+    "low": 10.89498203,
+    "close": 10.90179646,
+    "volumeYard": 1291.9244081740756,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782192660000,
+    "open": 10.90179646,
+    "high": 10.95895406,
+    "low": 10.89768283,
+    "close": 10.94385358,
+    "volumeYard": 1488.4198534112497,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782192720000,
+    "open": 10.94385358,
+    "high": 10.960169,
+    "low": 10.88975042,
+    "close": 10.95232051,
+    "volumeYard": 1571.3161588586333,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782192780000,
+    "open": 10.95232051,
+    "high": 10.9526264,
+    "low": 0.00000751,
+    "close": 0.00000755,
+    "volumeYard": 10011258.069922753,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782192840000,
+    "open": 0.00000755,
+    "high": 10.95840352,
+    "low": 0.00000752,
+    "close": 10.95768227,
+    "volumeYard": 10011246.235709341,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782192900000,
+    "open": 10.95768227,
+    "high": 10.95951347,
+    "low": 10.89387503,
+    "close": 10.92005008,
+    "volumeYard": 1520.3645602789124,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782192960000,
+    "open": 10.92005008,
+    "high": 10.96415323,
+    "low": 10.89614215,
+    "close": 10.91612476,
+    "volumeYard": 1338.8114035245358,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782193020000,
+    "open": 10.91612476,
+    "high": 10.96630499,
+    "low": 10.90234795,
+    "close": 10.96266679,
+    "volumeYard": 1368.352766923428,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782193080000,
+    "open": 10.96266679,
+    "high": 10.96478959,
+    "low": 10.90416253,
+    "close": 10.95816159,
+    "volumeYard": 1468.8181169798513,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782193140000,
+    "open": 10.95816159,
+    "high": 10.96845069,
+    "low": 10.90504051,
+    "close": 10.92580906,
+    "volumeYard": 1143.9854596099383,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782193200000,
+    "open": 10.92580906,
+    "high": 10.9724102,
+    "low": 10.90476134,
+    "close": 10.90476134,
+    "volumeYard": 1499.4539043049142,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782193260000,
+    "open": 10.90476134,
+    "high": 10.96227528,
+    "low": 10.90135539,
+    "close": 10.95448729,
+    "volumeYard": 1300.0267026654358,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782193320000,
+    "open": 10.95448729,
+    "high": 10.96758369,
+    "low": 10.90336415,
+    "close": 10.96273142,
+    "volumeYard": 1301.515321090427,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782193380000,
+    "open": 10.96273142,
+    "high": 10.96927708,
+    "low": 10.9030067,
+    "close": 10.92368655,
+    "volumeYard": 1134.1847062035863,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782193440000,
+    "open": 10.92368655,
+    "high": 10.96860364,
+    "low": 10.90063993,
+    "close": 10.92973909,
+    "volumeYard": 1693.4942895833015,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782193500000,
+    "open": 10.92973909,
+    "high": 10.96400958,
+    "low": 10.90180687,
+    "close": 10.91701569,
+    "volumeYard": 1331.8614401553164,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782193560000,
+    "open": 10.91701569,
+    "high": 10.96350179,
+    "low": 10.90356254,
+    "close": 10.96133332,
+    "volumeYard": 1296.4554760536669,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782193620000,
+    "open": 10.96133332,
+    "high": 10.96152547,
+    "low": 10.90127002,
+    "close": 10.91661534,
+    "volumeYard": 1079.3540743335284,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782193680000,
+    "open": 10.91661534,
+    "high": 10.961895,
+    "low": 10.89769239,
+    "close": 10.94503989,
+    "volumeYard": 1371.7819316515584,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782193740000,
+    "open": 10.94503989,
+    "high": 10.9607221,
+    "low": 10.90092115,
+    "close": 10.9287948,
+    "volumeYard": 1296.2217745885398,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782193800000,
+    "open": 10.9287948,
+    "high": 10.96839195,
+    "low": 10.90435711,
+    "close": 10.91916701,
+    "volumeYard": 1252.8916961157538,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782193860000,
+    "open": 10.91916701,
+    "high": 10.9667393,
+    "low": 6.2432163489288185e-12,
+    "close": 0.00000422,
+    "volumeYard": 19893429.04899941,
+    "reason": "No treasury action was needed."
+  },
+  {
+    "time": 1782193920000,
+    "open": 0.00000422,
+    "high": 0.00000422,
+    "low": 0.00000422,
+    "close": 0.00000422,
+    "volumeYard": 684.2509698454264,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782193980000,
+    "open": 0.00000422,
+    "high": 0.00000422,
+    "low": 0.00000422,
+    "close": 0.00000422,
+    "volumeYard": 959.0159008026773,
+    "reason": "No treasury action was needed."
+  },
+  {
+    "time": 1782194040000,
+    "open": 0.00000422,
+    "high": 0.00000422,
+    "low": 0.00000422,
+    "close": 0.00000422,
+    "volumeYard": 649.7014152656525,
+    "reason": "No treasury action was needed."
+  },
+  {
+    "time": 1782194100000,
+    "open": 0.00000422,
+    "high": 0.00000422,
+    "low": 0.00000422,
+    "close": 0.00000422,
+    "volumeYard": 642.598183072986,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782194160000,
+    "open": 0.00000422,
+    "high": 12.03990199,
+    "low": 0.00000422,
+    "close": 12.03545197,
+    "volumeYard": 594.3494490211228,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782194220000,
+    "open": 12.03545197,
+    "high": 12.08277904,
+    "low": 12.01190644,
+    "close": 12.0810674,
+    "volumeYard": 778.2788645949671,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782194280000,
+    "open": 12.0810674,
+    "high": 12.08243867,
+    "low": 12.00728632,
+    "close": 12.01845986,
+    "volumeYard": 1277.1905205101598,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782194340000,
+    "open": 12.01845986,
+    "high": 12.07986381,
+    "low": 12.00921858,
+    "close": 12.02228203,
+    "volumeYard": 1167.5249373780173,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782194400000,
+    "open": 12.02228203,
+    "high": 12.08260589,
+    "low": 12.00778728,
+    "close": 12.01102609,
+    "volumeYard": 1319.3433895668131,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782194460000,
+    "open": 12.01102609,
+    "high": 12.07732973,
+    "low": 12.00621015,
+    "close": 12.05889148,
+    "volumeYard": 1285.3174319050634,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782194520000,
+    "open": 12.05889148,
+    "high": 12.08002478,
+    "low": 12.0099872,
+    "close": 12.05680517,
+    "volumeYard": 1285.2550797761317,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782194580000,
+    "open": 12.05680517,
+    "high": 12.08246238,
+    "low": 12.01258781,
+    "close": 12.05574572,
+    "volumeYard": 978.2195174866883,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782194640000,
+    "open": 12.05574572,
+    "high": 12.08229606,
+    "low": 12.01160219,
+    "close": 12.07705289,
+    "volumeYard": 898.6667080972868,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782194700000,
+    "open": 12.07705289,
+    "high": 12.08330357,
+    "low": 12.01491918,
+    "close": 12.05409702,
+    "volumeYard": 665.7871905561769,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782194760000,
+    "open": 12.05409702,
+    "high": 12.07640736,
+    "low": 12.01143495,
+    "close": 12.0615592,
+    "volumeYard": 569.4039730249433,
+    "reason": "No treasury action was needed."
+  },
+  {
+    "time": 1782194820000,
+    "open": 12.0615592,
+    "high": 12.08404178,
+    "low": 12.01127031,
+    "close": 12.04306472,
+    "volumeYard": 1000.8213407388424,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782194880000,
+    "open": 12.04306472,
+    "high": 12.08114283,
+    "low": 12.00673436,
+    "close": 12.00673436,
+    "volumeYard": 1401.3383297479045,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782194940000,
+    "open": 12.00673436,
+    "high": 12.07904337,
+    "low": 12.00673436,
+    "close": 12.07662155,
+    "volumeYard": 771.7270870824783,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782195000000,
+    "open": 12.07662155,
+    "high": 12.07946186,
+    "low": 12.00993034,
+    "close": 12.03848497,
+    "volumeYard": 1395.6121533517032,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782195060000,
+    "open": 12.03848497,
+    "high": 12.07984634,
+    "low": 12.01257371,
+    "close": 12.02023298,
+    "volumeYard": 165.44192583749236,
+    "reason": "No treasury action was needed."
+  },
+  {
+    "time": 1782195120000,
+    "open": 12.02023298,
+    "high": 12.08170203,
+    "low": 12.01261103,
+    "close": 12.05679222,
+    "volumeYard": 0,
+    "reason": "No treasury action was needed."
+  },
+  {
+    "time": 1782195180000,
+    "open": 12.05679222,
+    "high": 12.08120996,
+    "low": 12.01304991,
+    "close": 12.04928856,
+    "volumeYard": 0,
+    "reason": "No treasury action was needed."
+  },
+  {
+    "time": 1782195240000,
+    "open": 12.04928856,
+    "high": 12.04928856,
+    "low": 12.048,
+    "close": 12.048,
+    "volumeYard": 0,
+    "reason": "No treasury action was needed."
+  },
+  {
+    "time": 1782195300000,
+    "open": 12.048,
+    "high": 12.048,
+    "low": 12.048,
+    "close": 12.048,
+    "volumeYard": 0,
+    "reason": "No treasury action was needed."
+  },
+  {
+    "time": 1782195360000,
+    "open": 12.048,
+    "high": 12.048,
+    "low": 12.048,
+    "close": 12.048,
+    "volumeYard": 0,
+    "reason": "No treasury action was needed."
+  },
+  {
+    "time": 1782195420000,
+    "open": 12.048,
+    "high": 12.048,
+    "low": 12.048,
+    "close": 12.048,
+    "volumeYard": 0,
+    "reason": "No treasury action was needed."
+  },
+  {
+    "time": 1782195480000,
+    "open": 12.048,
+    "high": 12.048,
+    "low": 12.048,
+    "close": 12.048,
+    "volumeYard": 0,
+    "reason": "No treasury action was needed."
+  },
+  {
+    "time": 1782195540000,
+    "open": 12.048,
+    "high": 12.048,
+    "low": 12.048,
+    "close": 12.048,
+    "volumeYard": 0,
+    "reason": "No treasury action was needed."
+  },
+  {
+    "time": 1782195600000,
+    "open": 12.048,
+    "high": 12.048,
+    "low": 12.048,
+    "close": 12.048,
+    "volumeYard": 0,
+    "reason": "No treasury action was needed."
+  },
+  {
+    "time": 1782195660000,
+    "open": 12.048,
+    "high": 12.048,
+    "low": 12.04794107,
+    "close": 12.04799107,
+    "volumeYard": 7.6846510554978,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782195720000,
+    "open": 12.04799107,
+    "high": 12.048,
+    "low": 12.04756074,
+    "close": 12.04756836,
+    "volumeYard": 117.54815986469501,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782195780000,
+    "open": 12.04756836,
+    "high": 12.04784419,
+    "low": 12.04745639,
+    "close": 12.0476923,
+    "volumeYard": 88.59508285145385,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782195840000,
+    "open": 12.0476923,
+    "high": 12.0476923,
+    "low": 12.04707225,
+    "close": 12.04752733,
+    "volumeYard": 126.83597495743443,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782195900000,
+    "open": 12.04752733,
+    "high": 12.04768214,
+    "low": 12.0470809,
+    "close": 12.04732258,
+    "volumeYard": 152.35724083075158,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782195960000,
+    "open": 12.04732258,
+    "high": 12.04767156,
+    "low": 12.04719608,
+    "close": 12.04757094,
+    "volumeYard": 124.62198044468072,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782196020000,
+    "open": 12.04757094,
+    "high": 12.04771393,
+    "low": 12.04731993,
+    "close": 12.04766076,
+    "volumeYard": 137.64354424493385,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782196080000,
+    "open": 12.04766076,
+    "high": 12.04777993,
+    "low": 12.04736926,
+    "close": 12.0474561,
+    "volumeYard": 144.86290057847364,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782196140000,
+    "open": 12.0474561,
+    "high": 12.04747184,
+    "low": 12.04654302,
+    "close": 12.04662427,
+    "volumeYard": 133.4519058277314,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782196200000,
+    "open": 12.04662427,
+    "high": 12.04682495,
+    "low": 12.04648986,
+    "close": 12.04682495,
+    "volumeYard": 127.40865937483959,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782196260000,
+    "open": 12.04682495,
+    "high": 12.04688415,
+    "low": 12.04659027,
+    "close": 12.04659027,
+    "volumeYard": 125.06215113407818,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782196320000,
+    "open": 12.04659027,
+    "high": 12.04677104,
+    "low": 12.04632991,
+    "close": 12.04662672,
+    "volumeYard": 106.70086757569996,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782196380000,
+    "open": 12.04662672,
+    "high": 12.04670082,
+    "low": 12.0462692,
+    "close": 12.04654265,
+    "volumeYard": 152.40881156105715,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782196440000,
+    "open": 12.04654265,
+    "high": 12.04667533,
+    "low": 12.04642075,
+    "close": 12.04643831,
+    "volumeYard": 126.44913976559833,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782196500000,
+    "open": 12.04643831,
+    "high": 12.04684042,
+    "low": 12.04643831,
+    "close": 12.04676318,
+    "volumeYard": 62.902851902261006,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782196560000,
+    "open": 12.04676318,
+    "high": 12.04734904,
+    "low": 12.04676318,
+    "close": 12.04729755,
+    "volumeYard": 131.33546537737809,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782196620000,
+    "open": 12.04729755,
+    "high": 12.04757419,
+    "low": 12.0469292,
+    "close": 12.04711519,
+    "volumeYard": 132.91409163807108,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782196680000,
+    "open": 12.04711519,
+    "high": 12.04755576,
+    "low": 12.04710754,
+    "close": 12.04751867,
+    "volumeYard": 123.2814453096567,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782196740000,
+    "open": 12.04751867,
+    "high": 12.048,
+    "low": 12.04732971,
+    "close": 12.04793592,
+    "volumeYard": 143.80245547718704,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782196800000,
+    "open": 12.04793592,
+    "high": 12.048,
+    "low": 12.04745658,
+    "close": 12.0475023,
+    "volumeYard": 81.0109766541786,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782196860000,
+    "open": 12.0475023,
+    "high": 12.048,
+    "low": 12.0475023,
+    "close": 12.04778076,
+    "volumeYard": 119.56873466031016,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782196920000,
+    "open": 12.04778076,
+    "high": 12.048,
+    "low": 12.04767738,
+    "close": 12.0479239,
+    "volumeYard": 153.0677662264028,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782196980000,
+    "open": 12.0479239,
+    "high": 12.048,
+    "low": 12.04774058,
+    "close": 12.04794087,
+    "volumeYard": 101.48068773758031,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782197040000,
+    "open": 12.04794087,
+    "high": 12.048,
+    "low": 12.047382,
+    "close": 12.04756975,
+    "volumeYard": 103.87525957355598,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782197100000,
+    "open": 12.04756975,
+    "high": 12.048,
+    "low": 12.04728956,
+    "close": 12.04728956,
+    "volumeYard": 130.17516638293202,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782197160000,
+    "open": 12.04728956,
+    "high": 12.04784504,
+    "low": 12.04718958,
+    "close": 12.04775375,
+    "volumeYard": 149.90122149213946,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782197220000,
+    "open": 12.04775375,
+    "high": 12.04790872,
+    "low": 12.04722011,
+    "close": 12.04722011,
+    "volumeYard": 143.8692387560298,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782197280000,
+    "open": 12.04722011,
+    "high": 12.04756405,
+    "low": 12.04722011,
+    "close": 12.04753987,
+    "volumeYard": 128.2394884504149,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782197340000,
+    "open": 12.04753987,
+    "high": 12.04762727,
+    "low": 12.04728126,
+    "close": 12.04750655,
+    "volumeYard": 127.5511526433558,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782197400000,
+    "open": 12.04750655,
+    "high": 12.04763287,
+    "low": 12.04716752,
+    "close": 12.04728358,
+    "volumeYard": 123.00548343258801,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782197460000,
+    "open": 12.04728358,
+    "high": 12.04740624,
+    "low": 12.0468699,
+    "close": 12.04698806,
+    "volumeYard": 107.45117011126065,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782197520000,
+    "open": 12.04698806,
+    "high": 12.04714201,
+    "low": 12.04682225,
+    "close": 12.04694083,
+    "volumeYard": 119.77812988003429,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782197580000,
+    "open": 12.04694083,
+    "high": 12.04754277,
+    "low": 12.04694083,
+    "close": 12.0471902,
+    "volumeYard": 140.7333787664886,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782197640000,
+    "open": 12.0471902,
+    "high": 12.04745519,
+    "low": 12.04706283,
+    "close": 12.04733724,
+    "volumeYard": 115.81908756306636,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782197700000,
+    "open": 12.04733724,
+    "high": 12.04736697,
+    "low": 12.04652037,
+    "close": 12.04667758,
+    "volumeYard": 120.47185007055356,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782197760000,
+    "open": 12.04667758,
+    "high": 12.04688454,
+    "low": 12.04649321,
+    "close": 12.04659917,
+    "volumeYard": 143.80835029158183,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782197820000,
+    "open": 12.04659917,
+    "high": 12.04659917,
+    "low": 12.0461077,
+    "close": 12.04611988,
+    "volumeYard": 141.40865725798471,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782197880000,
+    "open": 12.04611988,
+    "high": 12.04647491,
+    "low": 12.04607443,
+    "close": 12.04647491,
+    "volumeYard": 124.95865682068889,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782197940000,
+    "open": 12.04647491,
+    "high": 12.04647491,
+    "low": 12.04553424,
+    "close": 12.04553424,
+    "volumeYard": 133.94552026328296,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782198000000,
+    "open": 12.04553424,
+    "high": 12.04583658,
+    "low": 12.04538702,
+    "close": 12.04566881,
+    "volumeYard": 123.45468770116248,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782198060000,
+    "open": 12.04566881,
+    "high": 12.04593894,
+    "low": 12.04554064,
+    "close": 12.04585514,
+    "volumeYard": 144.88806587479823,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782198120000,
+    "open": 12.04585514,
+    "high": 12.04592824,
+    "low": 12.04558993,
+    "close": 12.04575241,
+    "volumeYard": 133.74473915348068,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782198180000,
+    "open": 12.04575241,
+    "high": 12.04657841,
+    "low": 12.04564049,
+    "close": 12.04609462,
+    "volumeYard": 147.52718073778317,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782198240000,
+    "open": 12.04609462,
+    "high": 12.04643752,
+    "low": 12.04556518,
+    "close": 12.04643752,
+    "volumeYard": 130.73483040269593,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782198300000,
+    "open": 12.04643752,
+    "high": 12.04645934,
+    "low": 12.04608708,
+    "close": 12.04608708,
+    "volumeYard": 116.47974121056622,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782198360000,
+    "open": 12.04608708,
+    "high": 12.04656757,
+    "low": 12.04592974,
+    "close": 12.04622731,
+    "volumeYard": 145.46378288007458,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782198420000,
+    "open": 12.04622731,
+    "high": 12.04643956,
+    "low": 12.04609257,
+    "close": 12.04643956,
+    "volumeYard": 123.55544200510239,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782198480000,
+    "open": 12.04643956,
+    "high": 12.04682954,
+    "low": 12.04613275,
+    "close": 12.04676687,
+    "volumeYard": 139.1491311684049,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782198540000,
+    "open": 12.04676687,
+    "high": 12.04728458,
+    "low": 12.04664664,
+    "close": 12.04727995,
+    "volumeYard": 129.60024022187028,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782198600000,
+    "open": 12.04727995,
+    "high": 12.04727995,
+    "low": 12.04694395,
+    "close": 12.04694395,
+    "volumeYard": 125.42614550434362,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782198660000,
+    "open": 12.04694395,
+    "high": 12.04734409,
+    "low": 12.04692878,
+    "close": 12.04723196,
+    "volumeYard": 127.96225424820837,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782198720000,
+    "open": 12.04723196,
+    "high": 12.04730904,
+    "low": 12.0466542,
+    "close": 12.04668708,
+    "volumeYard": 129.57960109295072,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782198780000,
+    "open": 12.04668708,
+    "high": 12.04677392,
+    "low": 12.04639529,
+    "close": 12.04671553,
+    "volumeYard": 135.8848965186889,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782198840000,
+    "open": 12.04671553,
+    "high": 12.04673671,
+    "low": 12.04612317,
+    "close": 12.04614333,
+    "volumeYard": 139.3784748541775,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782198900000,
+    "open": 12.04614333,
+    "high": 12.04633104,
+    "low": 12.04587576,
+    "close": 12.04621783,
+    "volumeYard": 131.64207285235813,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782198960000,
+    "open": 12.04621783,
+    "high": 12.04623281,
+    "low": 12.04572292,
+    "close": 12.04572357,
+    "volumeYard": 117.42351595700855,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782199020000,
+    "open": 12.04572357,
+    "high": 12.04578352,
+    "low": 12.04486078,
+    "close": 12.04507708,
+    "volumeYard": 129.6829598571361,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782199080000,
+    "open": 12.04507708,
+    "high": 12.04543903,
+    "low": 12.04496222,
+    "close": 12.04528354,
+    "volumeYard": 142.2743127106159,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782199140000,
+    "open": 12.04528354,
+    "high": 12.04547474,
+    "low": 12.04520757,
+    "close": 12.04524065,
+    "volumeYard": 145.3118628238554,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782199200000,
+    "open": 12.04524065,
+    "high": 12.04570643,
+    "low": 12.04485788,
+    "close": 12.04562345,
+    "volumeYard": 130.49714156009725,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782199260000,
+    "open": 12.04562345,
+    "high": 12.04620172,
+    "low": 12.04541269,
+    "close": 12.04620172,
+    "volumeYard": 143.1825388605843,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782199320000,
+    "open": 12.04620172,
+    "high": 12.04638583,
+    "low": 12.04578239,
+    "close": 12.04616451,
+    "volumeYard": 146.1195009588141,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782199380000,
+    "open": 12.04616451,
+    "high": 12.04616451,
+    "low": 12.04545375,
+    "close": 12.0456247,
+    "volumeYard": 154.16798165712422,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782199440000,
+    "open": 12.0456247,
+    "high": 12.04580372,
+    "low": 12.04527083,
+    "close": 12.04538844,
+    "volumeYard": 113.84720078569043,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782199500000,
+    "open": 12.04538844,
+    "high": 12.04577602,
+    "low": 12.04531289,
+    "close": 12.04539237,
+    "volumeYard": 122.27878320385408,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782199560000,
+    "open": 12.04539237,
+    "high": 12.04551437,
+    "low": 12.04520287,
+    "close": 12.04520485,
+    "volumeYard": 128.91825435726815,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782199620000,
+    "open": 12.04520485,
+    "high": 12.04537507,
+    "low": 12.04449218,
+    "close": 12.0445448,
+    "volumeYard": 148.84984245557612,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782199680000,
+    "open": 12.0445448,
+    "high": 12.04458492,
+    "low": 12.04403212,
+    "close": 12.04429594,
+    "volumeYard": 144.8565479608633,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782199740000,
+    "open": 12.04429594,
+    "high": 12.04438218,
+    "low": 12.04402221,
+    "close": 12.04402221,
+    "volumeYard": 121.7952376567401,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782199800000,
+    "open": 12.04402221,
+    "high": 12.04446864,
+    "low": 12.04370125,
+    "close": 12.04446864,
+    "volumeYard": 132.1544888798564,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782199860000,
+    "open": 12.04446864,
+    "high": 12.04451591,
+    "low": 12.04407108,
+    "close": 12.04417029,
+    "volumeYard": 130.01114713223146,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782199920000,
+    "open": 12.04417029,
+    "high": 12.0441886,
+    "low": 12.04354114,
+    "close": 12.04386081,
+    "volumeYard": 124.26626915341016,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782199980000,
+    "open": 12.04386081,
+    "high": 12.04386081,
+    "low": 12.04295991,
+    "close": 12.04295991,
+    "volumeYard": 129.50856573909454,
+    "reason": "Admin market-maker sold Yard back to treasury."
+  },
+  {
+    "time": 1782200040000,
+    "open": 12.04295991,
+    "high": 12.04305948,
+    "low": 12.04275374,
+    "close": 12.0429464,
+    "volumeYard": 137.6433578293764,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782200100000,
+    "open": 12.0429464,
+    "high": 12.04317843,
+    "low": 12.04281272,
+    "close": 12.04317843,
+    "volumeYard": 132.82731605375386,
+    "reason": "Admin market-maker bought Yard from treasury."
+  },
+  {
+    "time": 1782200160000,
+    "open": 12.04317843,
+    "high": 12.04341487,
+    "low": 12.04297916,
+    "close": 12.04308327,
+    "volumeYard": 103.65682704493761,
+    "reason": "Admin market-maker bought Yard from treasury."
+  }
+]

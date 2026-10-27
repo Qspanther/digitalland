@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --color-gaj-green: #00ff88;
+  --color-gaj-dark: #0a0a0a;
+}
+
+body {
+  background-color: var(--color-gaj-dark);
+  color: white;
+}

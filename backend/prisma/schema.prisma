@@ -1,0 +1,58 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+model User {
+  id               String        @id @default(uuid())
+  email            String        @unique
+  passwordHash     String
+  mnemonicHash     String
+  walletAddress    String        @unique
+  balanceYard      Int           @default(0)
+  balanceInr       Float         @default(0.0)
+  createdAt        DateTime      @default(now())
+  updatedAt        DateTime      @updatedAt
+  sentTransactions Transaction[] @relation("Sender")
+  recvTransactions Transaction[] @relation("Receiver")
+  orders           Order[]
+}
+
+model Transaction {
+  id         String   @id @default(uuid())
+  type       String   // SQLite does not support enums: BUY_PLATFORM, SELL_PLATFORM, P2P_TRADE, GIFT
+  amountYard Int
+  priceInr   Float
+  timestamp  DateTime @default(now())
+  
+  senderId   String?
+  sender     User?    @relation("Sender", fields: [senderId], references: [id])
+  
+  receiverId String?
+  receiver   User?    @relation("Receiver", fields: [receiverId], references: [id])
+}
+
+model Order {
+  id         String   @id @default(uuid())
+  userId     String
+  user       User     @relation(fields: [userId], references: [id])
+  type       String   // BUY, SELL
+  amountYard Int
+  priceInr   Float
+  status     String   @default("OPEN") // OPEN, FILLED, CANCELLED
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+}
+
+model PlatformState {
+  id                String   @id @default("singleton")
+  totalSupply       Int      @default(10000000)
+  circulatingSupply Int      @default(0)
+  basePriceInr      Float    @default(100.0)
+  currentPriceInr   Float    @default(100.0)
+  updatedAt         DateTime @updatedAt
+}
